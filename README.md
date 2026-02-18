@@ -5,6 +5,7 @@ Data Analyst | Research Analyst | Instructor
 Founder – Falu_Vin Tech
 
 👩🏽‍💻 About Me
+
 I am a data analyst and research professional with strong experience in quantitative, qualitative, and mixed-methods research. I specialize in transforming complex datasets into actionable insights that support business growth, social impact, and policy decision-making.
 I work confidently across Excel, SQL, Power BI, Python, SPSS, and NVivo, delivering clear, data-driven solutions.
 🛠️ Technical Skills
