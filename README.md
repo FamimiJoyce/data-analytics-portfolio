@@ -1,4 +1,4 @@
-📊 Data Analytics Portfolio
+📊 Data Analytics 
 
 Famimi Joyce Terwase
 Data Analyst | Research Analyst | Instructor
